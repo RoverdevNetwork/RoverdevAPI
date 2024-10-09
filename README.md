@@ -9,6 +9,7 @@ Stay tuned for updates as we launch features designed to streamline your workflo
 
 ## Links
 
+- 🤖 [NPM Package](https://www.npmjs.com/package/roverdevapi)
 - 🌐 [Roverdev Website](https://roverdev.xyz)
 - 🚀 [API Documentation](https://api.roverdev.xyz)
 - 💬 [Join our Discord](https://discord.gg/roverdev)
