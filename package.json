@@ -1,11 +1,28 @@
 {
-  "name": "roverdevapi",
-  "version": "0.0.3",
+  "name": "@alexDev7518/roverdevapi",
+  "version": "0.0.6",
   "description": "Roverdev API is one of the largest API for Managing your shop discord bots & Hosting servers at roverdev network.",
   "main": "Main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish:github": "npm publish --registry=https://npm.pkg.github.com",
+    "publish:npm": "npm publish",
+    "publish:all": "npm run publish:github && npm run publish:npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexDev7518/RoverdevAPI.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/AlexDev7518/RoverdevAPI/issues"
+  },
+  "homepage": "https://github.com/AlexDev7518/RoverdevAPI#readme"
 }
