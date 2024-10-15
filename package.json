@@ -1,6 +1,6 @@
 {
   "name": "@alexDev7518/roverdevapi",
-  "version": "0.0.6",
+  "version": "0.0.1",
   "description": "Roverdev API is one of the largest API for Managing your shop discord bots & Hosting servers at roverdev network.",
   "main": "Main.js",
   "scripts": {
