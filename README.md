@@ -8,8 +8,6 @@ Our API is **coming soon** with a dedicated **npm package** that allows you to e
 Stay tuned for updates as we launch features designed to streamline your workflow.
 
 ## Links
-
-- 🤖 [NPM Package](https://www.npmjs.com/package/roverdevapi)
 - 🌐 [Roverdev Website](https://roverdev.xyz)
 - 🚀 [API Documentation](https://api.roverdev.xyz)
 - 💬 [Join our Discord](https://discord.gg/roverdev)
