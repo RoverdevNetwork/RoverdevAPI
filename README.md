@@ -9,5 +9,5 @@ Stay tuned for updates as we launch features designed to streamline your workflo
 
 ## Links
 - 🌐 [Roverdev Website](https://roverdev.xyz)
-- 🚀 [API Documentation](https://api.roverdev.xyz)
+- 🚀 [API Documentation](https://roverdev.xyz/documentation/api)
 - 💬 [Join our Discord](https://discord.gg/roverdev)
